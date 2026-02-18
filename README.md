@@ -9,11 +9,6 @@
 > Advanced Airride System for ESX Servers
 > Realistische Luftfahrwerk-Steuerung mit Besitzprüfung, Synchronisation und Speed-Limit.
 
-SHOWCASE:
-https://postimg.cc/8Fzhr4GH
-https://postimg.cc/Lq8zZDSv
-https://postimg.cc/gw2v6sps
-
 ---
 
 ## ✨ Features
@@ -216,3 +211,13 @@ Wenn du möchtest, kann ich dir noch:
 * 🖼️ mit **Preview GIF Abschnitt**
 * 🧩 mit **fxmanifest Beispiel**
 * oder eine **Release-Struktur für Tebex**
+
+SHOWCASE
+
+---
+
+<img width="1234" height="810" alt="Screenshot 2026-02-18 094021" src="https://github.com/user-attachments/assets/c96e5000-221c-4398-aa60-0c47a76881c4" />
+<img width="1284" height="833" alt="Screenshot 2026-02-18 094010" src="https://github.com/user-attachments/assets/3492d0da-4067-4855-b38b-10cffdbf828f" />
+<img width="1140" height="822" alt="Screenshot 2026-02-18 093949" src="https://github.com/user-attachments/assets/f13576d3-3070-481a-b3eb-68853ba1f3a0" />
+
+---
